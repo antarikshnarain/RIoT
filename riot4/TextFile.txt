@@ -1,0 +1,43 @@
+TODO:
+
+
+[not possible]forgot password
+
+environment login buton
+set current env devices settings based on intersection of user devices and envdevices and unlocked
+//auto refresh
+
+comment and documentation
+check_errors 
+
+................
+css
+
+slider new
+buttons
+phone display settings
+individual division for each slider
+lock unlock image button
+background size
+
+.................
+
+//die( print_r( sqlsrv_errors(), true));
+
+................
+
+Appliances to demonstrate:
+
+Fan
+Light(LED + normal+ bulb)
+Table lamp
+Thermostat(AC/heater)
+
+
+////Add Device PHP
+give drop down to add devices
+
+save only the settings that a particular user modifies, and not what others do in the environment
+
+Log out of env feture also
+
